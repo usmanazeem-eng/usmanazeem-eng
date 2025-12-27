@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Technologies & Tools<br>👨‍💻 Frontend<br><br>HTML5<br><br>CSS3<br><br>JavaScript (ES6+)<br><br>Flutter<br><br>Dart<br><br>React.js<br><br>Tailwind CSS<br><br>Bootstrap<br><br>📱 Mobile App Development<br><br>Flutter (Android & iOS)<br><br>Firebase Authentication<br><br>Firebase Firestore<br><br>REST APIs<br><br>Provider / Riverpod (State Management)<br><br>🧠 Backend & APIs<br><br>Node.js<br><br>Express.js<br><br>RESTful APIs<br><br>Mock APIs (MockAPI / JSON Server)<br><br>🗄️ Databases<br><br>Firebase Firestore<br><br>SQLite<br><br>MySQL<br>🛠️ Tools & Platforms<br><br>Git & GitHub<br><br>VS Code<br><br>Android Studio<br><br>Postman<br><br>Figma<br><br>Linux (Ubuntu)<br>evOps & Others<br><br>GitHub Actions (CI/CD – basics)<br><br>APK Release & Optimization<br><br>App Size Optimization<br><br>API Integration & Data Fetching
+🚀 Technologies & Tools<br>👨‍💻 Frontend<br>HTML5 CSS3 JavaScript Flutter,Dart React.js Tailwind CSS Bootstrap<br><br>📱 Mobile App Development<br>Flutter (Android & iOS) Firebase Authentication Firebase Firestore REST APIs Provider / Riverpod (State Management)<br><br>🧠 Backend & APIs<br>Node.js Express.js RESTful APIs Mock APIs (MockAPI / JSON Server)<br><br>🗄️ Databases<br>Firebase Firestore SQLite MySQL<br>🛠️ Tools & Platforms<br>Git & GitHub VS Code Android Studio Postman<br><br>Figma<br>Linux (Ubuntu) evOps & Others GitHub Actions (CI/CD – basics)<br><br>APK Release & Optimization<br>App Size Optimization<br>API Integration & Data Fetching
 
 
 ## 🌐 Socials:
@@ -8,9 +8,9 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=usmanazeem-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=usmanazeem-eng&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanazeem-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=usmanazeem-eng&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=usmanazeem-eng&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanazeem-eng&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=usmanazeem-eng&limit=5&theme=dark&combine_all_yearly_contributions=true)
